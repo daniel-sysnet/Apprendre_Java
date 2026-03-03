@@ -1,4 +1,4 @@
-public class app {
+public class App {
     public static void main(String[] arg){
         System.out.println("Bonjour");
         System.out.print("Bonjour");
